@@ -49,5 +49,8 @@ To implement autohealing features:
 ```bash
   deployment-->replica set--->pod
 ```
+![Screenshot (43)](https://github.com/HIMA10SHREE/Kubernetes_practical/assets/52618743/b0860b9c-1c4a-49ac-b2f5-9e8b9af9721f)
+
+the replica set always creates the pod even when the pods get deleted.
 
 
