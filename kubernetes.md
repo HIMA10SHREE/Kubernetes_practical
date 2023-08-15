@@ -6,6 +6,11 @@ to start kubernetes:
   minikube start
 ```
 
+to check status of  kubernetes:
+```bash
+  minikube status
+```
+
 to check nodes:
 ```bash
  kubectl  get nodes
