@@ -78,3 +78,5 @@ pod structure:
 
 ![Screenshot (125)](https://github.com/HIMA10SHREE/Kubernetes_practical/assets/52618743/0b8743da-cbbe-434e-9882-b99affc721a8)
 
+
+![Screenshot (126)](https://github.com/HIMA10SHREE/Kubernetes_practical/assets/52618743/4d09fdcc-a421-4da8-af0e-d48619e751df)
