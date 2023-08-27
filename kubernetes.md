@@ -66,9 +66,14 @@ to get sample yaml code:
 
 to get the namespaces:
 
-kubectl get ns
+```bash
+   kubectl get ns
+```
 
 to get the pods in particular namespace:
 
-kubectl get pods -n namespace name
+```bash
+   kubectl get pods -n namespace name
+```
+
 
