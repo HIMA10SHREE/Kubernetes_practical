@@ -59,4 +59,7 @@ To implement autohealing features:
 the replica set always creates the pod even when the pods get deleted.
 
 
+to get sample yaml code:
 
+
+![Screenshot (124)](https://github.com/HIMA10SHREE/Kubernetes_practical/assets/52618743/5e5e4cac-95db-4122-b7dc-e44b847e123f)
