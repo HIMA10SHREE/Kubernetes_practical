@@ -63,3 +63,12 @@ to get sample yaml code:
 
 
 ![Screenshot (124)](https://github.com/HIMA10SHREE/Kubernetes_practical/assets/52618743/5e5e4cac-95db-4122-b7dc-e44b847e123f)
+
+to get the namespaces:
+
+kubectl get ns
+
+to get the pods in particular namespace:
+
+kubectl get pods -n namespace name
+
