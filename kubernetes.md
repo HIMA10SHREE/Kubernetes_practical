@@ -83,3 +83,10 @@ pod structure:
 
 
 ![Screenshot (127)](https://github.com/HIMA10SHREE/Kubernetes_practical/assets/52618743/d65f772c-6a02-4276-a840-4e46ea7662f3)
+
+
+
+IMPORTANT K8 OBJECT
+===================
+![image](https://github.com/HIMA10SHREE/Kubernetes_practical/assets/52618743/14b0adc5-cd49-408a-885c-8bad9154dd93)
+
